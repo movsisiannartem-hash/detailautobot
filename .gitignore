@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data and leads
+leads.json
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
